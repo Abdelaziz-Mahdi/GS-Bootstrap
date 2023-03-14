@@ -41,8 +41,8 @@
 }
 
 .gray-filter {
-  filter:
-    invert(19%) sepia(5%) saturate(2%) hue-rotate(2deg) brightness(93%) contrast(94%);
+  filter: 
+  invert(19%) sepia(5%) saturate(2%) hue-rotate(2deg) brightness(93%) contrast(94%);
 }
 
 .color-inv {
@@ -139,7 +139,7 @@ body {
 }
 
 .navbar-nav .nav-link.active,
-.navbar-nav .show>.nav-link {
+.navbar-nav .show > .nav-link {
   color: var(--color-orange);
 }
 
