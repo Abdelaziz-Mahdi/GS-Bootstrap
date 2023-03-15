@@ -105,11 +105,14 @@ const speakersHtml = () => {
     speakersCard.classList.add('col-md-6', 'mb-3', 'mt-3');
     speakersCard.innerHTML += `
       <div class='row row-cols-2'>
-        <img
-          class='col-4 mb-3 mt-3'
+        <div class="speaker-img-co col-4 mb-3 mt-3">
+          <span class='speaker-img-bg'></span>
+          <img
+          class='speaker-img'
           src=${card.urlMainImg}
           alt='speaker'
         />
+        </div>
         <div class='col-8 text-start text-holder'>
           <h3 class='mt-3'>${card.Name}</h3>
           <p
