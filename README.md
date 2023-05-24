@@ -61,7 +61,7 @@ Walking through portfolio outline.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Live Demo Link: [https://abdelaziz-ali.github.io/GS-Bootstrap/](https://abdelaziz-ali.github.io/GS-Bootstrap/)
+Live Demo Link: <a target="_blank" rel="noopener" href="https://abdelaziz-ali.github.io/GS-Bootstrap">Global-Summit Website</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +95,7 @@ https://github.com/Abdelaziz-Ali/Global-Summit.git
 
 
 
-- [ ] **[Style Improvments]**
+- [ ] **Style Improvments**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
