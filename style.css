@@ -163,6 +163,7 @@ h1 {
   -webkit-text-fill-color: transparent;
   color: transparent;
   -webkit-background-clip: text;
+  background-clip: text;
   font-size: 36px;
   font-weight: 900;
 }
