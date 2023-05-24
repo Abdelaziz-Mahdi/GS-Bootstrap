@@ -51,9 +51,9 @@ Built useing Bootstrap and font awesome.
 
 ## :movie_camera: Project Presentation <a name="project-presentation"></a>
 
-Walking through portfolio outline.
+Walking through Global-Summit Website outline.
 
-- Project Presentation Link: [https://www.loom.com/share/d40dda0e19954ebc937cf4e7cee3ffdd](https://www.loom.com/share/e63b3aafd91e4aaeac6294942c32933d)
+- Project Presentation Link: [Global-Summit Presentation](https://www.loom.com/share/e63b3aafd91e4aaeac6294942c32933d)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,7 +61,8 @@ Walking through portfolio outline.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Live Demo Link: <a target="_blank" rel="noopener" href="https://abdelaziz-ali.github.io/GS-Bootstrap">Global-Summit Website</a>
+*to open Live Demo in new tab do a CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link.
+- Live Demo Link: [Global-Summit Website](https://abdelaziz-ali.github.io/GS-Bootstrap)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
