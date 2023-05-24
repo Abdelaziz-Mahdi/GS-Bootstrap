@@ -16,7 +16,8 @@
       integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./node_modules/wow.js/css/libs/animate.css" />
     <script
       src="https://kit.fontawesome.com/2399167a2e.js"
       crossorigin="anonymous"
@@ -166,7 +167,7 @@
             class="row ps-2 pe-2 ps-md-0 pe-md-0 pb-4 pt-4 d-flex justify-content-center"
           >
             <li
-              class="p-3 col-md-2 row m-1 justify-content-center align-items-center hover"
+              class="wow slideInLeft p-3 col-md-2 row m-1 justify-content-center align-items-center hover"
             >
               <img
                 src="./visuals/program_icon_01.png"
@@ -186,7 +187,7 @@
               </p>
             </li>
             <li
-              class="p-3 col-md-2 row m-1 justify-content-center align-items-center hover"
+              class="wow slideInLeft p-3 col-md-2 row m-1 justify-content-center align-items-center hover"
             >
               <img
                 src="./visuals/program_icon_02.png"
@@ -206,7 +207,7 @@
               </p>
             </li>
             <li
-              class="p-3 col-md-2 row m-1 justify-content-center align-items-center hover"
+              class="wow bounceInUp p-3 col-md-2 row m-1 justify-content-center align-items-center hover"
             >
               <img
                 src="./visuals/program_icon_03.png"
@@ -225,7 +226,7 @@
               </p>
             </li>
             <li
-              class="p-3 col-md-2 row m-1 justify-content-center align-items-center hover"
+              class="wow slideInRight p-3 col-md-2 row m-1 justify-content-center align-items-center hover"
             >
               <img
                 src="./visuals/program_icon_04.png"
@@ -244,7 +245,7 @@
               </p>
             </li>
             <li
-              class="p-3 col-md-2 row m-1 justify-content-center align-items-center hover"
+              class="wow slideInRight p-3 col-md-2 row m-1 justify-content-center align-items-center hover"
             >
               <img
                 src="./visuals/program_icon_05.png"
@@ -407,27 +408,27 @@
         </section>
       </div>
     </section>
-    <section id="partners" class="Partners text-center pt-5 pb-5 gray-dk">
+    <section id="partners" class="Partners text-center pt-4 pb-3 gray-gbd">
       <div class="container">
         <!----- Partners ------->
         <header class="main-title position-relative">
-          <h2 class="text-light">Partners</h2>
+          <h2 class="text-white-50">Partners</h2>
         </header>
         <section>
           <ul class="row d-flex justify-content-center pt-5">
-            <li class="col-md-auto p-2 m-2 col-4">
-              <img src="./visuals/wtm-logo.png" alt="google-ic" />
+            <li class="col-md-auto p-2 m-2 col-3">
+              <img src="./visuals/mozilla_logo.svg" alt="google-ic" />
             </li>
-            <li class="col-md-auto p-2 m-2 col-4">
+            <li class="col-md-auto p-2 m-2 col-3">
               <img src="./visuals/CIC-logo.png" alt="google-ic" />
             </li>
-            <li class="col-md-auto pt-4 p-2 m-2 col-4">
-              <img src="./visuals/mozilla-logo.png" alt="google-ic" />
+            <li class="col-md-auto p-2 m-2 col-3">
+              <img src="./visuals/github-logo.jpeg" alt="google-ic" />
             </li>
-            <li class="col-md-auto p-2 m-2 col-6">
-              <img src="./visuals/github-logo.png" alt="google-ic" />
+            <li class="col-md-auto p-2 m-2 col-3">
+              <img src="./visuals/wtm-logo.png" alt="google-ic" />
             </li>
-            <li class="col-md-auto pt-4 p-2 m-2 col-6">
+            <li class="col-md-auto p-2 m-2 col-3">
               <img src="./visuals/slack-logo.png" alt="google-ic" />
             </li>
           </ul>
@@ -471,5 +472,9 @@
       integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
       crossorigin="anonymous"
     ></script>
+    <script src="./node_modules/wow.js/dist/wow.min.js"></script>
+    <script>
+      new WOW().init();
+    </script>
   </body>
 </html>

@@ -1,5 +1,6 @@
 :root {
   --font-gray: #272a31;
+  --color-gb: #414244;
   --font-dk: #272a31;
   --font-white: white;
   --color-black: #272a31;
@@ -22,6 +23,10 @@
 
 .orange-font {
   color: var(--color-orange);
+}
+
+.gray-gbd {
+  background-color: var(--color-gb);
 }
 
 .gray-bg {
@@ -151,13 +156,14 @@ body {
 /* -----Intro----- */
 
 #intro-rap {
-  background-image: url(./visuals/mobile_intro_bg.png);
+  background-image: url(../visuals/mobile_intro_bg.png);
   background-repeat: no-repeat;
   background-size: cover;
+  min-height: 90vh;
 }
 
 h1 {
-  background-image: url(./visuals/text-clip.jpg);
+  background-image: url(../visuals/text-clip.jpg);
   background-repeat: repeat;
   background-size: contain;
   -webkit-text-fill-color: transparent;
@@ -168,7 +174,7 @@ h1 {
 }
 
 #program-section {
-  background-image: url(./visuals/pattern_bg.png);
+  background-image: url(../visuals/pattern_bg.png);
   background-repeat: repeat;
   background-color: var(--font-dk);
 }
@@ -186,8 +192,6 @@ h1 {
 
 .hover:hover {
   border: #fff solid 0.2rem;
-  transform: scale(1.1);
-  transition: 0.7s;
 }
 
 #program-section p {
@@ -195,8 +199,14 @@ h1 {
 }
 
 #program-section li {
+  border: transparent solid 0.2rem;
   background-color: rgba(255, 255, 255, 0.1);
-  margin-bottom: 16px;
+}
+
+#program-section li:hover {
+  border: #fff solid 0.2rem;
+  transform: scale(1.02);
+  transition: 0.7s;
 }
 
 /* ----------featured-speakers----------- */
@@ -206,7 +216,7 @@ h1 {
 }
 
 .speaker-img-bg {
-  background-image: url(./visuals/chess-pattern.png);
+  background-image: url(../visuals/chess-pattern.png);
   background-size: 100%;
   background-position: 0 0, 10% 10%;
   background-color: #fff;
@@ -237,6 +247,18 @@ h1 {
   transform: translateX(0%);
 }
 
+/* ----------Partners----------- */
+
+#partners img {
+  width: 20vw;
+  aspect-ratio: 3/1;
+  object-fit: contain;
+  object-position: center;
+  mix-blend-mode: screen;
+  filter: grayscale(100%);
+  opacity: 0.6;
+}
+
 /* ----------About----------- */
 
 #about {
@@ -244,7 +266,7 @@ h1 {
 }
 
 .about-main {
-  background: #f7f7f8 url(./visuals/about_bg_main.png) center no-repeat;
+  background: #f7f7f8 url(../visuals/about_bg_main.png) center no-repeat;
   height: auto;
   overflow: auto;
 }
@@ -319,6 +341,10 @@ h1 {
   }
 
   .speaker-img-bg {
-    background-image: url(./visuals/chess-pattern-d.png);
+    background-image: url(../visuals/chess-pattern-d.png);
+  }
+
+  #partners img {
+    width: 10vw;
   }
 }
