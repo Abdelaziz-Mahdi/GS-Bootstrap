@@ -27,10 +27,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Global-Summit] <a name="about-project"></a>
+# 📖 Global-Summit <a name="about-project"></a>
 
 
-**[Global-Summit]** Is a website can be used for confranse or glopbal events and runs smoothly on different devices and screen sizes
+**Global-Summit** Is a website can be used for confranse or glopbal events and runs smoothly on different devices and screen sizes
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,8 +42,8 @@ Built useing Bootstrap and font awesome.
 
 ### Key Features <a name="key-features"></a>
 
-- **[Responsive design]**
-- **[Hover effects]**
+- **Responsive design**
+- **Hover and animation effects**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,7 +53,7 @@ Built useing Bootstrap and font awesome.
 
 Walking through portfolio outline.
 
-- [Project Presentation Link] [https://www.loom.com/share/d40dda0e19954ebc937cf4e7cee3ffdd](https://www.loom.com/share/e63b3aafd91e4aaeac6294942c32933d)
+- Project Presentation Link: [https://www.loom.com/share/d40dda0e19954ebc937cf4e7cee3ffdd](https://www.loom.com/share/e63b3aafd91e4aaeac6294942c32933d)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,7 +61,7 @@ Walking through portfolio outline.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link] [https://yourdeployedapplicationlink.com](https://abdelaziz-ali.github.io/Global-Summit/)
+Live Demo Link: [https://abdelaziz-ali.github.io/GS-Bootstrap/](https://abdelaziz-ali.github.io/GS-Bootstrap/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +95,7 @@ https://github.com/Abdelaziz-Ali/Global-Summit.git
 
 
 
-- [ ] **[Animation and Hover effects]**
+- [ ] **[Style Improvments]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,9 +130,9 @@ Give a ⭐️ if you like this project!
 
 ## ❓ FAQ <a name="faq"></a>
 
-[Do i have to make changes on this project before using it?]
+Do i have to make changes on this project before using it?
 
-[You need to modify it to match your clint information]
+- You need to modify it to match your clint information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
