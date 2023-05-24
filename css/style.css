@@ -156,14 +156,14 @@ body {
 /* -----Intro----- */
 
 #intro-rap {
-  background-image: url(./visuals/mobile_intro_bg.png);
+  background-image: url(../visuals/mobile_intro_bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 90vh;
 }
 
 h1 {
-  background-image: url(./visuals/text-clip.jpg);
+  background-image: url(../visuals/text-clip.jpg);
   background-repeat: repeat;
   background-size: contain;
   -webkit-text-fill-color: transparent;
@@ -174,7 +174,7 @@ h1 {
 }
 
 #program-section {
-  background-image: url(./visuals/pattern_bg.png);
+  background-image: url(../visuals/pattern_bg.png);
   background-repeat: repeat;
   background-color: var(--font-dk);
 }
@@ -216,7 +216,7 @@ h1 {
 }
 
 .speaker-img-bg {
-  background-image: url(./visuals/chess-pattern.png);
+  background-image: url(../visuals/chess-pattern.png);
   background-size: 100%;
   background-position: 0 0, 10% 10%;
   background-color: #fff;
@@ -266,7 +266,7 @@ h1 {
 }
 
 .about-main {
-  background: #f7f7f8 url(./visuals/about_bg_main.png) center no-repeat;
+  background: #f7f7f8 url(../visuals/about_bg_main.png) center no-repeat;
   height: auto;
   overflow: auto;
 }
@@ -341,7 +341,7 @@ h1 {
   }
 
   .speaker-img-bg {
-    background-image: url(./visuals/chess-pattern-d.png);
+    background-image: url(../visuals/chess-pattern-d.png);
   }
 
   #partners img {
