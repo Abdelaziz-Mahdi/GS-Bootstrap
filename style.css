@@ -186,8 +186,7 @@ h1 {
 
 .hover:hover {
   border: #fff solid 0.2rem;
-  transform: scale(1.1);
-  transition: 0.7s;
+
 }
 
 #program-section p {
@@ -195,8 +194,13 @@ h1 {
 }
 
 #program-section li {
+  border: transparent solid 0.2rem;
   background-color: rgba(255, 255, 255, 0.1);
-  margin-bottom: 16px;
+}
+#program-section li:hover {
+  border: #fff solid 0.2rem;
+  transform: scale(1.02);
+  transition: 0.7s;
 }
 
 /* ----------featured-speakers----------- */
