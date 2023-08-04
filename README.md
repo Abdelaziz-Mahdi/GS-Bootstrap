@@ -30,13 +30,13 @@
 # 📖 Global-Summit <a name="about-project"></a>
 
 
-**Global-Summit** Is a website can be used for confranse or glopbal events and runs smoothly on different devices and screen sizes
+**Global-Summit** Is a website that can be used for conference or global events and runs smoothly on different devices and screen sizes
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-Built useing Bootstrap and font awesome.
+Developed using JavaScript and Bootstrap.
 
 <!-- Features -->
 
@@ -51,7 +51,7 @@ Built useing Bootstrap and font awesome.
 
 ## :movie_camera: Project Presentation <a name="project-presentation"></a>
 
-Walking through Global-Summit Website outline.
+Walking through the Global-Summit Website outline.
 
 - Project Presentation Link: [Global-Summit Presentation](https://www.loom.com/share/e63b3aafd91e4aaeac6294942c32933d)
 
@@ -61,8 +61,8 @@ Walking through Global-Summit Website outline.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-*to open Live Demo in new tab do a CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link.
-- Live Demo Link: [Global-Summit Website](https://abdelaziz-ali.github.io/GS-Bootstrap)
+*to open Live Demo in a new tab do a CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link.
+- Live Demo Link: [Global-Summit Website](https://abdelaziz-mahdi.github.io/GS-Bootstrap/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +122,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Templete used in project provided by (Microverse).
+- Template used in the project provided by (Microverse).
 - Original design idea by Cindy Shin in Behance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -131,9 +131,9 @@ Give a ⭐️ if you like this project!
 
 ## ❓ FAQ <a name="faq"></a>
 
-Do i have to make changes on this project before using it?
+Do I have to make changes to this project before using it?
 
-- You need to modify it to match your clint information.
+- You need to modify it to match your client information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
